@@ -2,7 +2,7 @@
 ######MUSIC#####
 ######MUSIC BARAT######
 
-#EXTINF:-1  tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSIC",MTV LIVE
+#EXTINF:0  tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSIC",MTV LIVE
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 
 
@@ -37,88 +37,87 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/9XM_Logo.jpg" group-title="MUSIC"",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MUSIC TOP
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",RACE URBAN
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",RACE URBAN
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",B MUSIC SESSION
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",PRAMBORS
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",ONE
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",ONE
 http://rtmp.one.by:1300
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",California Music Channel
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",KRAL POP
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",KRAL POP
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",BOX HITS
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Ava Music
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Ava Music
 http://51.15.236.137/hls/stream.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",KurdMax Music
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",KurdMax Music
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Music Now
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MIX MUSIC
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MIX MUSIC
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MTV
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Clubbing TV
+#EXTINF:0  tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="MUSIC",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",BOX HITS
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Music Top
+
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Portal Foxmix
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="MUSIC",California Music Channel
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Euro Indie Music Chart
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Jhanjar Music
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",MTV
+#EXTINF:0  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png" group-title="MUSIC",MTV LIVE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSIC"",MTV Live
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8CQzzd4s/logo-allegro-small1.png" group-title="MUSIC",T Music
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1594379434/ei/SvgHX8DeI460vwSLkLmwCg/ip/103.141.234.24/id/V8caSKi5YLY.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir=yes;itag=140/sgovp/gir=yes;itag=137/hls_chunk_host/r2---sn-jx25uoxu-jb3s.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4280/mh/Om/mm/44/mn/sn-jx25uoxu-jb3s/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/mt/1594357756/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALv4ovH1ubyFnfsh3CjSLaKnXhIESsbt-bZ4cg60lrhvAiBuGPjEhhhbtVi4-wazXzW7GMqbcS-DHNClROyf1TCieQ==/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgJDNwLBQOo3n3bLhX6Hx9Pdy3V7kbE00A7jl1pNM_-PcCIBAmNyKB3pQvn3g9-xL8yi7DGis8StKhYRRaE7N5h7wz/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="MUSIC",Pramvbors Tv
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="MUSIC",Pramvbors Tv
 https://cdngb196.useetv.com/joss/18/pramborstv/chunklist_w1180545983_b684100_sleng.m3u8?enc=no-Rtt1Takh0Xdq5VcvfzQ&id=MjU0ODkwZTI3YzlkYjllZmJhYmNkZmFhOGEwMjljMzU=&exp=1594376124
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_mtvlive_small.png" group-title="MUSIC",MTV Live
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_mtvlive_small.png" group-title="MUSIC",MTV Live
 https://cdngb196.useetv.com/joss/15/mtvlive/chunklist_w1366889918_b1344100_sleng.m3u8?enc=bVhIqiV83cbaDL5hBOnN6A&id=MjU0ODkwZTI3YzlkYjllZmJhYmNkZmFhOGEwMjljMzU=&exp=1594376124
 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/zing.png" group-title="MUSIC",Zing
+#EXTINF:0 tvg-logo="http://cekker.masuk.web.id/logo/zing.png" group-title="MUSIC",Zing
 https://etslive-2-vidio-com.akamaized.net/exp=1594372228~acl=/hls-p/ingest_geo_6747_*/*~hmac=5d1953d0f6169948d3294551a2e26e8d451fa7aeff2b987ad53d27d8a61cfe29/hls-p/ingest_geo_6747_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/dang.png" group-title="MUSIC",Citra Dangdut
+#EXTINF:0 tvg-logo="http://cekker.masuk.web.id/logo/dang.png" group-title="MUSIC",Citra Dangdut
 https://etslive-2-vidio-com.akamaized.net/exp=1594372220~acl=/hls-p/ingest_6587_*/*~hmac=c5a96bb5b3eefd2a652483ddea17fa2c254538a24cf60742b84590eeb60b162a/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/75-751322_mtv-livesvg-wikipedia-mtv-live-hd-png-download.png" group-title="MUSIC"",MTV Live
